@@ -7,7 +7,7 @@
 
 <p align="center">
     <img
-        src="https://gitwar.herokuapp.com/badge?username=ISTECTION&label=PROFILE+VIEWS&for-the-badge"
+        src="https://komarev.com/ghpvc/?username=ISTECTION&label=PROFILE+VIEWS"
         alt="PROFILE VIEWS"
     >
 </p>
