@@ -56,4 +56,7 @@ ___
 </p>
 
 
-[![Spotify](https://novatorem-istection.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/8y5ollctzg5urkiguevw2b3ju)
+
+
+
+[![Spotify](https://istection-git-istection.vercel.app/api/spotify)](https://open.spotify.com/user/8y5ollctzg5urkiguevw2b3ju)
