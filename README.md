@@ -54,3 +54,9 @@ ___
         alt="PROFILE VIEWS"
     >
 </p>
+
+
+<img src="https://novatorem-ochre-sigma.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350">
+
+
+[<img src="https://novatorem-ochre-sigma.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/8y5ollctzg5urkiguevw2b3ju)
