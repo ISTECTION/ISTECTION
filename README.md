@@ -34,7 +34,6 @@ Like::Girl getGirl() const
 
 </h3>
 
-
 <h3 align="center"> 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨: </h3>
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
@@ -54,9 +53,3 @@ ___
         alt="PROFILE VIEWS"
     >
 </p>
-
-
-
-
-
-[![Spotify](https://istection-git-istection.vercel.app/api/spotify)](https://open.spotify.com/user/8y5ollctzg5urkiguevw2b3ju)
