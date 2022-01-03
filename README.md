@@ -31,6 +31,7 @@ Like::Girl getGirl() const
     };
 }
 ```
+
 </h3>
 
 <table align="center" style="border:0px">
@@ -44,10 +45,10 @@ Like::Girl getGirl() const
     </tr>
 </table>
 
-
-![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
-
+<div text-align="center">
+    <img src="https://github.com/ISTECTION/github-stats/blob/master/generated/overview.svg">
+    <img src="https://github.com/ISTECTION/github-stats/blob/master/generated/languages.svg">
+</div>
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ISTECTION&hide=contribs,issues&show_icons=true&theme=radical&include_all_commits=false&custom_title=ISTECTION">
