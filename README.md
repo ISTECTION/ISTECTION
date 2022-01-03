@@ -33,12 +33,12 @@ Like::Girl getGirl() const
 ```
 </h3>
 
-<table align="center">
-    <tr style="border:0;">
-        <td style="border:0;">
+<table align="center" style="border:0px">
+    <tr>
+        <td>
             <img src="https://github.com/ISTECTION/github-stats/blob/master/generated/overview.svg">
         </td>
-        <td style="border:0;">
+        <td>
             <img src="https://github.com/ISTECTION/github-stats/blob/master/generated/languages.svg">
         </td>
     </tr>
