@@ -34,28 +34,16 @@ Like::Girl getGirl() const
 
 </h3>
 
-<table align="center" style="border:0px">
-    <tr>
-        <td>
-            <img src="https://github.com/ISTECTION/github-stats/blob/master/generated/overview.svg">
-        </td>
-        <td>
-            <img src="https://github.com/ISTECTION/github-stats/blob/master/generated/languages.svg">
-        </td>
-    </tr>
-</table>
-
 <div align="center">
     <img src="https://github.com/ISTECTION/github-stats/blob/master/generated/overview.svg">
     <img src="https://github.com/ISTECTION/github-stats/blob/master/generated/languages.svg">
 </div>
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ISTECTION&hide=contribs,issues&show_icons=true&theme=radical&include_all_commits=false&custom_title=ISTECTION">
 <!-- langs_count-1:10 -->
 <!-- layout=compact - компактный вид -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISTECTION&hide=PowerShell&langs_count=3&custom_title=Languages&theme=radical" alt="Martin's GitHub Stats">
 
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ISTECTION&hide=contribs,issues&show_icons=true&theme=radical&include_all_commits=false&custom_title=ISTECTION">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISTECTION&hide=PowerShell&langs_count=3&custom_title=Languages&theme=radical" alt="Martin's GitHub Stats"> -->
 
 
 <h3 align="center"> 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨: </h3>
@@ -71,7 +59,6 @@ Like::Girl getGirl() const
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Breezeicons-apps-48-cmake.svg
 " alt="CMake" width="50" height="50">
 </p>
-
 
 ___
 <p align="center">
