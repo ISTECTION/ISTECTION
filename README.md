@@ -45,14 +45,14 @@ Like::Girl getGirl() const
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50">
 </p>
 
 <h3 align="center"> 𝙏𝙤𝙤𝙡𝙨: </h3>
 <p align="center">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Breezeicons-apps-48-cmake.svg
-" alt="CMake" width="50" height="50"/>
+" alt="CMake" width="50" height="50">
 </p>
 
 
@@ -63,3 +63,8 @@ ___
         alt="PROFILE VIEWS"
     >
 </p>
+
+<img align="center" src="https://github.com/ISTECTION/github-stats/blob/master/generated/languages.svg">
+
+
+![](https://github.com/ISTECTION/github-stats/blob/master/generated/overview.svg)
