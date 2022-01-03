@@ -34,7 +34,7 @@ Like::Girl getGirl() const
 </h3>
 
 <table align="center">
-    <tr>
+    <tr border="0">
         <td>
             <img src="https://github.com/ISTECTION/github-stats/blob/master/generated/overview.svg">
         </td>
