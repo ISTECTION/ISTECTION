@@ -33,6 +33,9 @@ Like::Girl getGirl() const
 ```
 </h3>
 
+<img align="center" src="https://github.com/ISTECTION/github-stats/blob/master/generated/overview.svg">
+<img align="center" src="https://github.com/ISTECTION/github-stats/blob/master/generated/languages.svg">
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ISTECTION&hide=contribs,issues&show_icons=true&theme=radical&include_all_commits=false&custom_title=ISTECTION">
 <!-- langs_count-1:10 -->
@@ -63,8 +66,3 @@ ___
         alt="PROFILE VIEWS"
     >
 </p>
-
-<img align="center" src="https://github.com/ISTECTION/github-stats/blob/master/generated/languages.svg">
-
-
-![](https://github.com/ISTECTION/github-stats/blob/master/generated/overview.svg)
