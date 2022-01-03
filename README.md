@@ -56,8 +56,7 @@ Like::Girl getGirl() const
 <h3 align="center"> 𝙏𝙤𝙤𝙡𝙨: </h3>
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50">
-    <img src="https://raw.githubusercontent.com/KDE/breeze-icons/c8ca52623d49f77fe32dc1bdb400fa16bc4afb06/icons/apps/48/cmake.svg
-" alt="CMake" width="50" height="50">
+    <img src="svg/cmake.svg" alt="CMake" width="50" height="50">
 </p>
 
 ___
