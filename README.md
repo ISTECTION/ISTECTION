@@ -39,12 +39,16 @@ Like::Girl getGirl() const
     <img src="https://github.com/ISTECTION/github-stats/blob/master/generated/languages.svg">
 </div>
 
+<div align="center">
+    <img src="https://github.com/ISTECTION/my-github-user/blob/master/github-metrics.svg">
+</div>
+
+
 <!-- langs_count-1:10 -->
 <!-- layout=compact - компактный вид -->
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ISTECTION&hide=contribs,issues&show_icons=true&theme=radical&include_all_commits=false&custom_title=ISTECTION">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISTECTION&hide=PowerShell&langs_count=3&custom_title=Languages&theme=radical" alt="Martin's GitHub Stats"> -->
-
 
 <h3 align="center"> 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨: </h3>
 <p align="center">
