@@ -40,7 +40,7 @@ Like::Girl getGirl() const
 </div>
 
 <div align="center">
-    <img src="https://github.com/ISTECTION/my-github-user/blob/master/github-metrics.svg">
+    <img src="https://github.com/ISTECTION/ISTECTION/blob/master/github-metrics.svg">
 </div>
 
 
