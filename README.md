@@ -24,7 +24,7 @@ private:
 Like::Girl getGirl() const
 {
     return Like::Girl {
-        "yCzWJqbDXfpB6okRUzBlSHatnU6ugw==",
+        "eKQBFOed1cpaxLeQF0sCP/ncImZ+zYU6PgWm1A==",
         Mode::ECB,
         "qwerty",
         128
