@@ -1,29 +1,30 @@
 [comment]: # (https://textgenerator.ru/ - Bold Italic)
-
 <h1 align="center"><img src="gif/nickname.gif" alt="ISTECTION"></h1>
 <h3>
-    ```cpp
-    class About : public Me
-    {
-    public:
-        std::string name    = "Vladislav";
-        std::string surname =  "Glushko" ;
+    
+```cpp
+class About : public Me
+{
+public:
+    std::string name    = "Vladislav";
+    std::string surname =  "Glushko" ;
 
-        size_t age = 20;
-    private:
-        Like::Girl getGirl() const;
-    }
+    size_t age = 20;
+private:
+    Like::Girl getGirl() const;
+}
 
-    Like::Girl getGirl() const
-    {
-        return Like::Girl {
-            "eKQBFOed1cpaxLeQF0sCP/ncImZ+zYU6PgWm1A==",
-            Mode::ECB,
-            "qwerty",
-            128
-        };
-    }
-    ```
+Like::Girl getGirl() const
+{
+    return Like::Girl {
+        "eKQBFOed1cpaxLeQF0sCP/ncImZ+zYU6PgWm1A==",
+        Mode::ECB,
+        "qwerty",
+        128
+    };
+}
+```
+    
 </h3>
 
 <!-- <div align="center"> -->
