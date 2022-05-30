@@ -6,19 +6,18 @@
 class About : public Me
 {
 public:
-    std::string name    = "Vladislav";
-    std::string surname =  "Glushko" ;
+    std::string_view _name    = "Vladislav";
+    std::string_view _surname =  "Glushko";
 
-    size_t age = 20;
+    std::size_t _age = 20;
 private:
-    Like::Girl getGirl() const;
+    constexpr Like::Girl get_girl () const noexcept;
 }
 
-Like::Girl getGirl() const
-{
+constexpr Like::Girl get_girl () const noexcept {
     return Like::Girl {
         "eKQBFOed1cpaxLeQF0sCP/ncImZ+zYU6PgWm1A==",
-        Mode::ECB,
+        MODE::ECB,
         "qwerty",
         128
     };
