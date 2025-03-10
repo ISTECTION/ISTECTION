@@ -25,11 +25,6 @@ constexpr Like::Girl get_girl () const noexcept {
 </h3>
 
 <div align="center"> 
-<img src="https://github.com/ISTECTION/github-stats/blob/master/generated/overview.svg">
-<img src="https://github.com/ISTECTION/github-stats/blob/master/generated/languages.svg">
-</div>
-
-<div align="center"> 
 <img src="https://github.com/ISTECTION/ISTECTION/blob/master/github-metrics.svg"> 
 </div>
 
