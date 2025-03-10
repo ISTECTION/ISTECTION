@@ -30,9 +30,10 @@ constexpr Like::Girl get_girl () const noexcept {
     
 <h3 align="center"> 𝙏𝙤𝙤𝙡𝙨: </h3>
     <p align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="50" height="50"/>
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50">
         <img src="svg/cmake.svg" alt="CMake" width="50" height="50">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="50" height="50"/>
     </p>
+    
 ___
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ISTECTION&label=PROFILE+VIEWS" alt="PROFILE VIEWS"></p>
